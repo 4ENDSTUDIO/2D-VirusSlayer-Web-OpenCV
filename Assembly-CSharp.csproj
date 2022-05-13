@@ -460,6 +460,7 @@
     <Compile Include="Assets\OpenCV+Unity\Demo\Scripts\FaceProcessor.cs" />
     <Compile Include="Assets\OpenCV+Unity\Demo\Scripts\WebCamera.cs" />
     <Compile Include="Assets\OpenCV+Unity\Demo\Tracking\TrackingScript.cs" />
+    <Compile Include="Assets\faceDetector.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\OpenCV+Unity\Plugins\Windows\x86\OpenCvSharpExtern.dll" />
@@ -467,6 +468,7 @@
     <None Include="Assets\OpenCV+Unity\Documentation\Third-Party Licenses.txt" />
     <None Include="Assets\OpenCV+Unity\smcs.rsp" />
     <None Include="Assets\OpenCV+Unity\gmcs.rsp" />
+    <None Include="Assets\haarcascade_frontalface_default1.xml" />
     <None Include="Assets\OpenCV+Unity\Documentation\OpenCV+Unity_Notes.txt" />
     <None Include="Assets\OpenCV+Unity\Demo\Face_Detector\haarcascade_eye_tree_eyeglasses.xml" />
     <None Include="Assets\OpenCV+Unity\Plugins\Windows\x86_64\OpenCvSharpExtern.dll" />
